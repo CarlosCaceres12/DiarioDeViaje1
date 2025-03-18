@@ -11,3 +11,6 @@ Disfruta de su gastronomía: Prueba platos típicos como la paella valenciana, e
 Participa en sus festividades: Si tienes la oportunidad, asiste a eventos como la Feria de Abril en Sevilla, las Fallas de Valencia o la Semana Santa en distintas ciudades.
 
 Relájate en sus playas y montañas: Desde las playas de la Costa del Sol hasta los paisajes montañosos de los Pirineos, España ofrece una diversidad natural impresionante.
+
+# Foto
+https://www.donquijote.org/donquijote-production-files/blog/img_post/plaza-espana-barcelona.jpg
