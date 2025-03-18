@@ -14,3 +14,37 @@ Relájate en sus playas y montañas: Desde las playas de la Costa del Sol hasta 
 
 # Foto
 https://www.donquijote.org/donquijote-production-files/blog/img_post/plaza-espana-barcelona.jpg
+
+# Informacion sobre España
+España: Tierra de Cultura y Tradición 🇪🇸
+📍 Ubicación: Suroeste de Europa, en la península ibérica.
+👥 Población: ~48 millones de habitantes.
+🗣 Idioma: Español (castellano).
+💶 Moneda: Euro (€).
+🌦 Clima: Mediterráneo, oceánico en el norte y continental en el interior.
+
+🏛 Lugares Emblemáticos
+Sagrada Familia (Barcelona) ⛪: La obra maestra de Gaudí.
+Alhambra (Granada) 🏰: Palacio y fortaleza árabe.
+Museo del Prado (Madrid) 🎨: Arte español e internacional.
+Plaza Mayor (Salamanca) 🏛: Una de las más bonitas de España.
+Catedral de Sevilla y la Giralda 🌆: Iconos de Andalucía.
+Camino de Santiago 🚶‍♂️: Ruta de peregrinación histórica.
+🍽 Gastronomía Típica
+Paella 🥘: Plato de arroz típico de Valencia.
+Tapas 🍢: Pequeñas porciones de comida para compartir.
+Jamón Ibérico 🍖: Tesoro de la gastronomía española.
+Gazpacho 🍅: Sopa fría refrescante.
+Churros con chocolate 🍫: Un clásico desayuno o merienda.
+🚆 Transporte y Consejos
+AVE (Tren de alta velocidad) 🚄: La forma más rápida de viajar entre ciudades.
+Metro y buses 🚇🚌: Eficientes en las grandes ciudades.
+Alquila un coche 🚗: Ideal para explorar pueblos y zonas rurales.
+Compra entradas con antelación 🎟️: Para evitar largas filas en monumentos populares.
+Evita las horas de más calor en verano ☀️: Sobre todo en Andalucía y el centro.
+🎭 Cultura y Entretenimiento
+Flamenco 💃: Música y baile tradicional en Andalucía.
+Festivales 🎆: Como La Tomatina, San Fermín y Las Fallas.
+Fútbol ⚽: Hogar del Real Madrid y FC Barcelona.
+Playas 🏖: Desde la Costa del Sol hasta las Baleares y Canarias.
+Pueblos con encanto 🏡: Como Ronda, Cuenca o Albarracín.
