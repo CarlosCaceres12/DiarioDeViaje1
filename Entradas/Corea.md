@@ -18,3 +18,27 @@ A lo largo del país, puedes encontrar templos budistas antiguos, como Bulguksa,
 
 # Foto
 https://media.istockphoto.com/id/1137568153/es/foto/flores-de-cerezo-en-primavera-se%C3%BAl-en-corea.jpg?s=612x612&w=0&k=20&c=K9x_aWgoVqkjZq23q8ANim-pl47_GVE0gPoVjfm11Ig=
+
+# Informacion sobre Corea
+🏛️ Lugares Icónicos
+Palacio Gyeongbokgung – Símbolo de la historia real de Corea.
+Torre Namsan (N Seoul Tower) – Vista panorámica de Seúl.
+Bukchon Hanok Village – Casas tradicionales en Seúl.
+DMZ (Zona Desmilitarizada) – Frontera con Corea del Norte.
+Isla Jeju – Naturaleza y playas impresionantes.
+Templo Bulguksa – Patrimonio de la Humanidad de la UNESCO.
+🍽️ Gastronomía
+Kimchi – Fermentado de col picante, base de la cocina coreana.
+Bulgogi – Carne marinada y asada.
+Bibimbap – Arroz mezclado con verduras, carne y huevo.
+Tteokbokki – Pasteles de arroz picantes.
+Samgyeopsal – Barbacoa coreana con panceta de cerdo.
+🛍️ Compras & Entretenimiento
+Myeongdong – Distrito de compras de moda y cosmética.
+Hongdae – Zona juvenil con vida nocturna y arte callejero.
+Gangnam – Barrio lujoso con tiendas de alto nivel.
+Dongdaemun Market – Mercado nocturno y de moda.
+🚇 Transporte
+Metro de Seúl – Extenso, moderno y eficiente.
+KTX (tren bala) – Conexión rápida entre ciudades.
+Taxis y autobuses – Alternativas para moverse fácilmente.
