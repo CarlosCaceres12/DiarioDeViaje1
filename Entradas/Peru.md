@@ -20,3 +20,33 @@ Su capital, Lima, es famosa por su gastronomía de clase mundial, mientras que C
 
 # Foto
 https://www.peru.travel/Contenido/AcercaDePeru/Imagen/es/1/0.0/Principal/Machu%20Picchu.jpg
+
+# Informacion Sobre Peru
+🏛️ Lugares Icónicos
+Machu Picchu – La joya del Imperio Inca y una de las maravillas del mundo.
+Cusco – Ciudad colonial con templos incas y plazas llenas de historia.
+Lago Titicaca – El lago navegable más alto del mundo, con islas flotantes de los Uros.
+Líneas de Nazca – Antiguos geoglifos en el desierto, aún envueltos en misterio.
+Arequipa y el Cañón del Colca – Ciudad blanca rodeada de volcanes y un cañón impresionante.
+Amazonía peruana – Biodiversidad y ecoturismo en Iquitos o Puerto Maldonado.
+🍽️ Gastronomía
+Ceviche – Pescado marinado en limón con cebolla y ají.
+Lomo Saltado – Trozos de carne salteados con papas y vegetales.
+Ají de gallina – Crema de ají amarillo con pollo desmenuzado.
+Pachamanca – Carne y tubérculos cocidos bajo tierra con piedras calientes.
+Pisco Sour – Cóctel nacional a base de pisco, limón y clara de huevo.
+🛍️ Compras & Entretenimiento
+Barranco (Lima) – Barrio bohemio con arte, bares y cultura.
+Mercado de San Pedro (Cusco) – Artesanías, textiles y comida tradicional.
+Miraflores (Lima) – Zona moderna con tiendas, parques y vistas al océano.
+Fiestas y festivales – Como la Fiesta de la Candelaria y el Inti Raymi.
+🚇 Transporte
+Metropolitano (Lima) – Sistema de buses rápidos.
+Tren a Machu Picchu – Vía escénica hasta Aguas Calientes.
+Buses interprovinciales – Principal forma de moverse entre ciudades.
+🌦️ Clima
+Perú tiene una gran diversidad climática:
+
+Costa – Árida y templada (Lima, Paracas).
+Sierra – Fría y seca (Cusco, Arequipa).
+Selva – Tropical y húmeda (Iquitos, Puerto Maldonado).
