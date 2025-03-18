@@ -22,3 +22,35 @@ Japón es un archipiélago de islas en el este de Asia con clima templado y cuat
 
 # Foto
 https://humanidades.com/wp-content/uploads/2017/07/japon-7-e1571188430646.jpg
+
+# Informacion sobre Japon
+Japón: La Tierra del Sol Naciente 🇯🇵
+📍 Ubicación: Asia Oriental, en el océano Pacífico.
+👥 Población: ~125 millones de habitantes.
+🗣 Idioma: Japonés.
+💴 Moneda: Yen (¥).
+🌦 Clima: Varía según la región, con veranos cálidos e inviernos fríos.
+
+🏛 Lugares Emblemáticos
+Tokio 🏙: Capital moderna con rascacielos, tecnología y cultura pop.
+Kioto 🎎: Templos tradicionales, geishas y jardines zen.
+Osaka 🍣: Ciudad vibrante con comida callejera y el Castillo de Osaka.
+Monte Fuji 🏔: Símbolo de Japón y destino de senderismo.
+Hiroshima 🕊: Memorial de la Paz y cúpula atómica.
+Nara 🦌: Ciervos sagrados y el Gran Buda de Todai-ji.
+🍽 Gastronomía Típica
+Sushi 🍣: Arroz con pescado crudo.
+Ramen 🍜: Sopa de fideos con caldo.
+Takoyaki 🐙: Bolitas de pulpo fritas.
+Okonomiyaki 🥞: Panqueque japonés con diferentes ingredientes.
+Mochi 🍡: Dulces de arroz glutinoso.
+🚆 Transporte y Consejos
+Japan Rail Pass 🚅: Ideal para moverte entre ciudades con tren bala.
+Metro y buses 🚇🚌: Sistema eficiente, pero evita horas pico.
+Tarjeta IC (Suica/Pasmo) 💳: Para pagar transporte y compras pequeñas.
+Respeto por las normas 🎎: No hables fuerte en el tren, sigue reglas de cortesía.
+🎭 Cultura y Entretenimiento
+Anime y manga 📺📖: Akihabara (Tokio) es el paraíso otaku.
+Festivales 🎆: Hanami (floración de cerezos), Gion Matsuri (Kioto).
+Tecnología y tradición 🤖⛩: Desde robots hasta templos históricos.
+Onsen ♨️: Baños termales naturales.
