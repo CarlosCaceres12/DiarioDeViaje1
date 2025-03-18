@@ -17,3 +17,6 @@ Colombia es famosa por su café de alta calidad, su música (cumbia, vallenato y
 ✅ Haz una excursión a la Catedral de Sal de Zipaquirá – Una maravilla subterránea cerca de Bogotá.
 ✅ Relájate en las Islas del Rosario – Playas de arena blanca y aguas cristalinas cerca de Cartagena.
 ✅ Explora el Amazonas colombiano – Ecoturismo, avistamiento de fauna y contacto con comunidades indígenas.
+
+# Foto
+https://blog.centraldereservas.com/wp-content/uploads/2022/01/Que-ver-en-Colombia.jpg
