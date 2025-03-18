@@ -14,3 +14,12 @@ Disfrutar de la gastronomía francesa en un café típico.
 
 # Foto
 https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900
+
+# Informacion sobre Paris
+📌 Datos clave:
+
+🌍 Ubicación: Francia, Europa
+🏛️ Idioma: Francés
+💶 Moneda: Euro (€)
+🌦️ Clima: Templado oceánico
+🚇 Transporte: Metro, autobuses y trenes RER
