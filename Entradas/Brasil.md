@@ -20,3 +20,29 @@ Brasil es conocido por su música, con géneros como la samba y la bossa nova, s
 
 # Foto
 https://st.depositphotos.com/1141099/3510/i/450/depositphotos_35103097-stock-photo-rio-de-janeiro-brazil-landscape.jpg
+
+# Informacion sobre Brasil
+🏛️ Lugares Icónicos
+Cristo Redentor (Río de Janeiro) – Una de las 7 maravillas del mundo moderno.
+Amazonas – La selva tropical más grande del mundo.
+Cataratas del Iguazú – Un espectáculo natural en la frontera con Argentina.
+Pan de Azúcar – Montaña con una vista impresionante de Río.
+Pelourinho (Salvador de Bahía) – Barrio colonial lleno de historia y color.
+Lençóis Maranhenses – Un desierto con lagunas de agua cristalina.
+🍽️ Gastronomía
+Feijoada – Un guiso de frijoles negros con carne de cerdo.
+Pão de queijo – Pequeños panecillos de queso, crujientes por fuera y suaves por dentro.
+Moqueca – Guiso de pescado con leche de coco y dendê.
+Açaí – Fruta amazónica servida en batidos o bowls con granola.
+Caipirinha – Bebida tradicional hecha con cachaça, limón y azúcar.
+🛍️ Compras & Entretenimiento
+Avenida Paulista (São Paulo) – Centro financiero con tiendas y museos.
+Mercado Municipal de São Paulo – Ideal para probar frutas exóticas y platos típicos.
+Rua das Pedras (Búzios) – Calle con boutiques y bares junto al mar.
+Carnaval de Río – El mayor espectáculo de samba del mundo.
+🚇 Transporte
+Metro en São Paulo y Río – Moderno y eficiente en las grandes ciudades.
+Ómnibus interurbanos – La mejor forma de viajar entre ciudades.
+Barcos en la Amazonía – Transporte clave para recorrer los ríos amazónicos.
+🌦️ Clima
+Brasil tiene un clima variado, con regiones tropicales, templadas y ecuatoriales. El Amazonas es húmedo y cálido todo el año, mientras que en el sur puede haber inviernos frescos.
