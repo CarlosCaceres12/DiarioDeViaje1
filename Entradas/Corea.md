@@ -15,3 +15,6 @@ A lo largo del país, puedes encontrar templos budistas antiguos, como Bulguksa,
 ✅ Recorre Hongdae de noche: Ideal para disfrutar de la vida nocturna, la música en vivo y la cultura juvenil.
 ✅ Haz una excursión a la DMZ: Aprende sobre la historia de la península coreana en la frontera con Corea del Norte.
 ✅ Compra cosméticos y moda: Corea es famosa por su skincare y tendencias de moda, Myeongdong y Gangnam son los mejores lugares.
+
+# Foto
+https://media.istockphoto.com/id/1137568153/es/foto/flores-de-cerezo-en-primavera-se%C3%BAl-en-corea.jpg?s=612x612&w=0&k=20&c=K9x_aWgoVqkjZq23q8ANim-pl47_GVE0gPoVjfm11Ig=
