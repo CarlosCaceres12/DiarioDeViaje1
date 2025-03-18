@@ -17,3 +17,6 @@ Su capital, Lima, es famosa por su gastronomía de clase mundial, mientras que C
 ✅ Pasea por Barranco – Un barrio bohemio en Lima con arte, música y vistas al mar.
 ✅ Prueba un Pisco Sour – El cóctel insignia del país.
 ✅ Haz el trekking a la Montaña de los Siete Colores – Un espectáculo natural impresionante cerca de Cusco.
+
+# Foto
+https://www.peru.travel/Contenido/AcercaDePeru/Imagen/es/1/0.0/Principal/Machu%20Picchu.jpg
