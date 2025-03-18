@@ -17,3 +17,6 @@ Más allá de sus ciudades, Rusia ofrece maravillas naturales como el Lago Baika
 ✅ Explora la naturaleza de Siberia – Visita el Lago Baikal, el más profundo del mundo.
 ✅ Visita la Catedral de San Basilio – Sus cúpulas de colores son un ícono de Rusia.
 ✅ Compra souvenirs en el Mercado Izmailovo – Encuentra matrioshkas, gorros rusos y artesanías.
+
+# Foto
+https://a.travel-assets.com/findyours-php/viewfinder/images/res40/102000/102188-Moscow-And-Vicinity.jpg
