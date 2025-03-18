@@ -20,3 +20,34 @@ Colombia es famosa por su café de alta calidad, su música (cumbia, vallenato y
 
 # Foto
 https://blog.centraldereservas.com/wp-content/uploads/2022/01/Que-ver-en-Colombia.jpg
+
+# Informacion sobre Colombia
+🏛️ Lugares Icónicos
+Cartagena de Indias – Ciudad colonial con calles coloridas y murallas históricas.
+Parque Nacional Tayrona – Playas vírgenes rodeadas de selva.
+Eje Cafetero – Región con plantaciones de café y paisajes espectaculares.
+Santuario de Las Lajas – Impresionante iglesia gótica sobre un cañón.
+Caño Cristales – El "río de los cinco colores", una maravilla natural única.
+Medellín y su Comuna 13 – Ciudad innovadora con historia de transformación.
+🍽️ Gastronomía
+Arepas – Tortillas de maíz rellenas de queso, carne o huevo.
+Bandeja Paisa – Plato con frijoles, carne, arroz, huevo, chicharrón y plátano maduro.
+Ajiaco – Sopa de pollo con papa, maíz y guasca, típica de Bogotá.
+Sancocho – Caldo espeso con carne, yuca y plátano.
+Café colombiano – Considerado uno de los mejores del mundo.
+🛍️ Compras & Entretenimiento
+Mercado de Paloquemao (Bogotá) – Ideal para probar frutas exóticas y productos locales.
+Andrés Carne de Res – Restaurante y discoteca emblemática en Bogotá.
+Zona T (Bogotá) y Parque Lleras (Medellín) – Centros de vida nocturna.
+Ferias y carnavales – Como la Feria de Cali y el Carnaval de Barranquilla.
+🚇 Transporte
+TransMilenio (Bogotá) – Sistema de buses rápidos.
+Metro de Medellín – El único metro en Colombia, eficiente y limpio.
+Chivas rumberas – Buses coloridos con música y fiesta a bordo.
+🌦️ Clima
+Colombia tiene una gran variedad climática:
+
+Cálido en la costa caribeña (Cartagena, Santa Marta).
+Templado en Medellín (clima primaveral todo el año).
+Frío en Bogotá y los Andes.
+Húmedo en la selva amazónica.
