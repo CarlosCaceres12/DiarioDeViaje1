@@ -17,3 +17,6 @@ Brasil es conocido por su música, con géneros como la samba y la bossa nova, s
 ✅ Relájate en Fernando de Noronha – Un paraíso de aguas cristalinas.
 ✅ Explora São Paulo y su escena cultural – Museos, gastronomía y vida nocturna vibrante.
 ✅ Recorre los Lençóis Maranhenses – Un desierto con lagunas azules únicas en el mundo.
+
+# Foto
+https://st.depositphotos.com/1141099/3510/i/450/depositphotos_35103097-stock-photo-rio-de-janeiro-brazil-landscape.jpg
