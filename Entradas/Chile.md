@@ -17,3 +17,7 @@ El país es hogar de maravillas naturales como el Desierto de Atacama, los fiord
 ✅ Prueba una empanada de pino y un asado chileno – Sabores imperdibles de la cocina local.
 ✅ Vive una vendimia en el Valle de Colchagua – Cata de vinos en una de las mejores regiones vinícolas.
 ✅ Haz un road trip por la Carretera Austral – Paisajes impresionantes y naturaleza virgen.
+
+# Foto
+https://media.istockphoto.com/id/913781186/es/foto/horizonte-de-santiago-de-chile.jpg?s=612x612&w=0&k=20&c=cDQAUxUDAxKajXtcyGrRHQwe_YXWGBCjF2ZCHQFRb1E=
+
