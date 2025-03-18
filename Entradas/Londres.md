@@ -9,3 +9,6 @@ Londres es la capital del Reino Unido y una de las ciudades más emblemáticas d
 Visita el London Eye para una vista panorámica.
 Explora el Museo de Historia Natural.
 Pasea por el Támesis y disfruta del ambiente en South Bank.
+
+# Foto
+https://media.istockphoto.com/id/1294454411/es/foto/s%C3%ADmbolos-de-londres-con-big-ben-double-decker-buses-y-red-phone-booth-en-inglaterra-reino-unido.jpg?s=612x612&w=0&k=20&c=uUglbAlKij_qrHfkOO9dfBRxv9OZIJBmmmG-lK-y7R4=
