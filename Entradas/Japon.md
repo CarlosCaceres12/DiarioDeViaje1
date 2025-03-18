@@ -19,3 +19,6 @@ Japón es un archipiélago de islas en el este de Asia con clima templado y cuat
 ✅ Aprovecha la tecnología 📱: Usa apps como Google Maps, Hyperdia (para trenes) y Traductores para facilitar tu viaje.
 
 ✅ Visita templos y santuarios ⛩️: Lugares como el Templo Senso-ji en Tokio o Fushimi Inari en Kioto son imperdibles.
+
+# Foto
+https://humanidades.com/wp-content/uploads/2017/07/japon-7-e1571188430646.jpg
