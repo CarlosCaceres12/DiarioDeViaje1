@@ -20,3 +20,29 @@ Más allá de sus ciudades, Rusia ofrece maravillas naturales como el Lago Baika
 
 # Foto
 https://a.travel-assets.com/findyours-php/viewfinder/images/res40/102000/102188-Moscow-And-Vicinity.jpg
+
+# Informacion Sobre Rusia
+🏛️ Lugares Icónicos
+Plaza Roja y Kremlin – Centro histórico y político de Rusia.
+Catedral de San Basilio – Con sus icónicas cúpulas de colores.
+Museo del Hermitage – Uno de los museos de arte más grandes del mundo.
+Transiberiano – El ferrocarril más largo del mundo, de Moscú a Vladivostok.
+Lago Baikal – El lago de agua dulce más profundo y antiguo del mundo.
+Kamchatka – Región de volcanes, géiseres y paisajes salvajes.
+🍽️ Gastronomía
+Borsch – Sopa de remolacha con carne y crema agria.
+Pelmeni – Dumplings rellenos de carne, típicos de Siberia.
+Blini – Panqueques finos servidos con miel, mermelada o caviar.
+Shashlik – Brochetas de carne marinada, populares en verano.
+Vodka – La bebida más emblemática del país.
+🛍️ Compras & Entretenimiento
+Arbat Street (Moscú) – Tiendas de recuerdos y arte callejero.
+Nevsky Prospekt (San Petersburgo) – Avenida con tiendas de lujo y cafés históricos.
+Mercado Izmailovo – El mejor lugar para comprar souvenirs tradicionales.
+Teatro Bolshói – Uno de los teatros de ballet y ópera más prestigiosos del mundo.
+🚇 Transporte
+Metro de Moscú – Conocido por sus estaciones decoradas como palacios.
+Tren Transiberiano – Un viaje legendario cruzando todo el país.
+Tranvías y autobuses – Presentes en la mayoría de las ciudades.
+🌦️ Clima
+Rusia tiene un clima continental extremo, con inviernos fríos (-20°C en muchas regiones) y veranos cálidos (hasta 30°C en Moscú). Siberia es famosa por sus temperaturas gélidas en invierno, llegando a -50°C en algunos lugares.
